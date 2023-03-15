@@ -1,0 +1,11 @@
+body {
+  background-image: url(http://www.wallpapersxl.com/wallpapers/1366x768/light-blue/254930/light-blue-landscape-opal-lake-254930.jpg);
+  background-size: cover;
+  background-position: 50% 0;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
+@import'./base/variables';
+
+@import'./components/card';

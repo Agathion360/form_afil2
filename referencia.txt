@@ -1,0 +1,30 @@
+grupo familiar x7
+
+nombre y apellido
+vinculo
+fecha de nacimiento
+sexo
+
+datos laborales
+empresa
+yacimiento
+area de trabajo
+legajo
+categoria recibo de sueldo
+fecha de ingreso
+peofesion
+obra social
+correo corporativo
+nombre jefe directo
+
+
+datos bancarios
+nombre y apellido
+dni
+banco
+numero de cueta
+cbu
+sucursal
+alias
+
+fecha de aceptacion en la ficha a imprimir
